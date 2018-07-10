@@ -6,19 +6,26 @@ type = "page"
 weight = 2
 
 +++
-Lehmann Bau Gbr  
-Inhaber: Lehmann Sven und Lehmann Elvira  
-Kleinthalhof 45  
-93352 Rohr in Niederbayern
+Nails & Beauty
+Inhaberin von Nägel und Fußpflege Studio
+Vanessa Lechner
+Altdorferstrasse 1
+84032 Landshut
 
-Tel. 08783-9671272  
-info@lehmann-bau.com
+Tel: 0 871 / 96 61 09 11
 
-Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:  
-Ust-IdNr. DE291414143  
-Amtsgericht Regensburg
+Mail  lechner.vanessa@yahoo.de
+Web beauty-landshut.de
 
-Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.
+
+
+Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz:
+DE 229 956 199
+
+Aufsichtsbehörde: Landratsamt Landshut
+
+Inhaberin und inhaltlich verwantwortlich:
+Vanessa Lechner
 
 Design / Konzept  
-[elvira.beck | Design](https://elvirabeck-design.de)
+[elvira.beck | design](https://elvirabeck-design.de)
