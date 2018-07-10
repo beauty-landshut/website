@@ -4,6 +4,9 @@ title = "Haftungsausschluss"
 type = "page"
 [menu.footer]
 weight = 3
+[menu.main]
+name = "Wimpernverlängerung"
+weight = 3
 
 +++
 ## HAFTUNG FÜR INHALTE
