@@ -17,4 +17,5 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
+- content/team.md
 - content/ueber-uns.md
