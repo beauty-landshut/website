@@ -10,9 +10,24 @@ weight = 8
 [[kategorien]]
 titel = "Wimpern / Augenbrauen"
 [[kategorien.unterkategorien]]
-bezeichnung = "Wimpernverlängerung HD Technik"
-[[kategorien.unterkategorien]]
 bezeichnung = "Wimpernverlängerung 1:1 Technik"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernverlängerung Erstbesatz"
+preis = "150,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpern Refill 2 Wochen"
+preis = "45,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpern Refill 3 Wochen"
+preis = "60,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpern Refill 4 Wochen"
+preis = "70,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpern Refill 5 Wochen"
+preis = "80,00€"
+[[kategorien.unterkategorien]]
+bezeichnung = "Wimpernverlängerung HD Technik"
 [[kategorien]]
 titel = "Nägel / Hände"
 [[kategorien]]
