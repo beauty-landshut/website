@@ -1,8 +1,23 @@
 +++
+bild_header = "/uploads/Nägel/top_nails.jpg"
 date = "2018-07-10T22:16:31+02:00"
 seo_description = ""
+titel_header = "Nägel"
 title = "Nägel"
+untertitel_header = "schöne und gepflegte Nägel für einen starken Auftritt - Nageldesign, Fußpflege, Sugaring"
 [menu.main]
 weight = 2
+[[teaser_oben]]
+bild = "/uploads/Nägel/Manikuere.jpg"
+text = "<p>Mit den Produkten von Pina Parie und ABC Nailstore werden Ihre Nägel verwöhnt. Schöne gesunde und gepflegte Fingernägel sind die Visitenkarten jeder selbstbewussten Frau und verstärken die Ausdrucksfähigkeit der Hände.</p>"
+titel = "Maniküre"
+[[teaser_oben]]
+bild = "/uploads/Nägel/Gelmodellage.jpg"
+text = "<p>Tolle Nägel und das für bis zu sechs Wochen? Möglich! Unsere Nageldesignerinnen versteht ihr Handwerk und modellieren mit ABC Nailstore und Pina Parie Ihre perfekten Nägel. Gerne modeliieren wir Ihnen einen kostenlosen Probenagel.</p>"
+titel = "Gel Modellage"
+[[teaser_oben]]
+bild = "/uploads/Nägel/bei fusion.jpeg"
+text = "<p>Fusion ist ein dünn gearbeiteter Gellack. Er verspricht bei starken Nägeln eine Haltbarkeit für zwei bis fünf Wochen.</p>"
+titel = "Fusion"
 
 +++
