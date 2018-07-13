@@ -128,6 +128,24 @@ preis = "48,00€"
 titel = "Sugaring"
 [[kategorien.unterkategorien]]
 [[kategorien.unterkategorien.preise]]
+bezeichnung = "Oberschenkel"
+preis = "32,50€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Beine bis Knie"
+preis = "40,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Beine komplett"
+preis = "60,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Bikinizone"
+preis = "27,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Intim (Teilbehandlung)"
+preis = "35,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Intim (Komplettbehandlung)"
+preis = "65,00€"
+[[kategorien.unterkategorien.preise]]
 bezeichnung = "Achseln"
 preis = "26,50€"
 [[kategorien.unterkategorien.preise]]
