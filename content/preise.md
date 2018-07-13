@@ -10,6 +10,9 @@ weight = 8
 [[kategorien]]
 titel = "Wimpern / Augenbrauen"
 [[kategorien.unterkategorien]]
+bezeichnung = "Wimpernverlängerung HD Technik"
+[[kategorien.unterkategorien]]
+bezeichnung = "Wimpernverlängerung 1:1 Technik"
 [[kategorien]]
 titel = "Nägel / Hände"
 [[kategorien]]
