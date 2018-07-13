@@ -28,4 +28,6 @@ fields:
     config:
       source:
         type: simple
+      options:
+      - video
     label: Icon
