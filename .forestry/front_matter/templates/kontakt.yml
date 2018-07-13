@@ -24,3 +24,5 @@ fields:
 - type: file
   name: karte
   label: Karte
+pages:
+- content/kontakt.md
