@@ -111,6 +111,19 @@ bezeichnung = "Professioneller Nagelhärter incl. Maniküre"
 preis = "45,00€"
 [[kategorien]]
 titel = "Füße"
+[[kategorien.unterkategorien]]
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fußnägel in French oder Farbe"
+preis = "28,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fußpflege"
+preis = "37,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fußpflege in French oder Farbe"
+preis = "55,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fußreflexzonen Massage 45min"
+preis = "48,00€"
 [[kategorien]]
 titel = "Sugaring"
 [[kategorien]]
