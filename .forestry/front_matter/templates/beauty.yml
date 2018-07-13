@@ -1,0 +1,9 @@
+---
+label: Beauty
+hide_body: true
+is_partial: false
+fields:
+- type: include
+  name: header
+  label: Header
+  template: header-sub
