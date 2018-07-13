@@ -35,4 +35,5 @@ fields:
   name: bilder
   label: Bilder
 pages:
+- content/wimpernlifting.md
 - content/wimpernverlaengerung.md
