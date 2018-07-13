@@ -34,3 +34,5 @@ fields:
 - type: image_gallery
   name: logos
   label: Logos
+pages:
+- content/ueber-uns.md
