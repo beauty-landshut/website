@@ -1,0 +1,12 @@
+---
+label: Naegel
+hide_body: true
+is_partial: false
+fields:
+- type: include
+  name: header
+  label: Header
+  template: header-sub
+- type: field_group_list
+  name: teaser_oben
+  label: Teaser oben
