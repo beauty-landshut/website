@@ -126,7 +126,36 @@ bezeichnung = "Fußreflexzonen Massage 45min"
 preis = "48,00€"
 [[kategorien]]
 titel = "Sugaring"
+[[kategorien.unterkategorien]]
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Achseln"
+preis = "26,50€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Arme bis Ellenbogen"
+preis = "30,50€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Oberarme"
+preis = "20,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Bauch"
+preis = "35,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Rücken"
+preis = "45,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Brust"
+preis = "35,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Gesicht"
+preis = "45,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Hände / Zehen / Po"
+preis = "je 10,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "einzelne Gesichtspartien"
+preis = "10,00€"
 [[kategorien]]
 titel = "Wellness"
 
 +++
+30,50€10,00€
