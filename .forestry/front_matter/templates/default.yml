@@ -17,6 +17,5 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
-- content/preise.md
 - content/hairs.md
 - content/kontakt.md
