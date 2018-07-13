@@ -174,6 +174,25 @@ bezeichnung = "einzelne Gesichtspartien"
 preis = "10,00€"
 [[kategorien]]
 titel = "Wellness"
+[[kategorien.unterkategorien]]
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Klassische Entspannungsmassage 30 min"
+preis = "39,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Klassische Entspannungsmassage 60 min"
+preis = "69,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Schokomassage 30 Min"
+preis = "44,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Honigmassage (Detox,Entgiftung) 30min"
+preis = "44,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fußreflexzonenmassage 45 Min"
+preis = "48,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Kosmetische Gesichtsbehandlung incl. Tages-Make-Up 90 Min"
+preis = "114,00€"
 
 +++
 30,50€10,00€
