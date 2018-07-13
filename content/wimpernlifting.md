@@ -1,6 +1,8 @@
 +++
 bild_header = "/uploads/Wimpernverlängerung/Wimpern_head.jpg"
 bild_links = "/uploads/Wimpernverlängerung/146.jpg"
+bilder = ["/uploads/Sugaring/97.jpg"]
+content = ""
 date = "2018-07-10T22:17:13+02:00"
 seo_description = ""
 slogan = "<p>Aber sehen Sie selbst ...</p>"
