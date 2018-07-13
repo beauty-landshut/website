@@ -34,3 +34,5 @@ fields:
 - type: image_gallery
   name: zertifikate
   label: Zertifikate
+pages:
+- content/team.md
