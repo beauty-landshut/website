@@ -28,6 +28,39 @@ bezeichnung = "Wimpern Refill 5 Wochen"
 preis = "80,00€"
 [[kategorien.unterkategorien]]
 bezeichnung = "Wimpernverlängerung HD Technik"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting (ohne Färben)"
+preis = "55,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting (mit Färben)"
+preis = "60,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + Nackenm. 15min (ohne Färben)"
+preis = "70,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + Nackenm. 15min (mit Färben)"
+preis = "75,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + Lackieren Nägel (ohne Färben)"
+preis = "65,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + Lackieren Nägel (mit Färben)"
+preis = "70,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + kl. Maniküre + Handmassage  (ohne Färben)"
+preis = "70,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpernlifting + kl. Maniküre + Handmassage  (mit Färben)"
+preis = "75,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Augenbrauen zupfen"
+preis = "8,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Augenbrauen färben"
+preis = "8,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Wimpern färben"
+preis = "15,00€"
 [[kategorien]]
 titel = "Nägel / Hände"
 [[kategorien]]
