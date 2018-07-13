@@ -1,9 +1,9 @@
 +++
 bild_header = "/uploads/Sugaring/Sugaring_head.jpg"
-bilder = []
+bilder = ["/uploads/Sugaring/94.jpg", "/uploads/Sugaring/92.jpg", "/uploads/Sugaring/IMG_0366.JPG", "/uploads/Sugaring/IMG_0363.JPG", "/uploads/Sugaring/IMG_0362.JPG", "/uploads/Sugaring/97.jpg"]
 date = "2018-07-10T22:17:33+02:00"
 seo_description = ""
-slogan = ""
+slogan = "<p>Aber sehen Sie selbst ...</p>"
 titel_header = "Sugaring"
 title = "Sugaring"
 untertitel_header = "Soft Sugaring - Professionelle Haarentfernung mittels Zucker"
