@@ -81,6 +81,34 @@ bezeichnung = "Wimpern färben"
 preis = "15,00€"
 [[kategorien]]
 titel = "Nägel / Hände"
+[[kategorien.unterkategorien]]
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Neumodellage French"
+preis = "90,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Refill"
+preis = "56,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Refill natural"
+preis = "50,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Fusion"
+preis = "45,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Extraverzierungen"
+preis = "ab 0,50€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "kleine Maniküre"
+preis = "20,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "SPA Maniküre"
+preis = "25,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Professioneller Nagelhärter"
+preis = "35,00€"
+[[kategorien.unterkategorien.preise]]
+bezeichnung = "Professioneller Nagelhärter incl. Maniküre"
+preis = "45,00€"
 [[kategorien]]
 titel = "Füße"
 [[kategorien]]
