@@ -22,3 +22,5 @@ fields:
 - type: image_gallery
   name: bilder
   label: Bilder
+pages:
+- content/sugaring.md
