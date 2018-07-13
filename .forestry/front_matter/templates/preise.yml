@@ -18,6 +18,9 @@ fields:
     name: unterkategorien
     label: Unterkategorien
     fields:
+    - type: text
+      name: bezeichnung
+      label: Bezeichnung
     - type: field_group_list
       name: preise
       label: Preise
