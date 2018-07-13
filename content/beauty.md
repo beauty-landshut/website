@@ -20,5 +20,13 @@ text = "<p>ENVIRON - Your Skin Rebron Beautiful</p><p>Hochwirksame, nährende Vi
 beschriftung = "Video ansehen"
 icon = "video"
 link = "http://google.de"
+[[content-blocks]]
+bild = "/uploads/Beauty/LOGO_SCM_Gray_NEW.png"
+template = "block-bild-text"
+text = "<p>Jane Iredale - DAS GESÜNDESTE MAKE-UP DER WELT MINERAL MAKE-UP, DAS DIE HAUT ATMEN LÄSST</p><p>Jane Iredale brachte 1994 das erste hautpflegende Make-up auf den Markt. Natürliche und einzigartige Inhaltsstoffe auf der Basis von Mineralien machen es zum technologisch hochwertigsten und wirksamsten Make-up der Welt. Empfohlen von Plastischen Chir- urgen, Dermatologen und Hautpflegeexperten. </p><p>Vorteile:</p><ul><li><p>Hautpflegendes, lang haltendes Mineral Make-up, das die Haut atmen lässt.</p></li><li><p>Angereichert mit Vitaminen und Antioxidantien.</p></li><li><p>Frei von künstlichen Duft- und Konservierungsstoffen, hypoallergen.</p></li><li><p>Effektiver UV-Schutz.</p></li><li><p>Die Lösung zum Kaschieren von Hautproblemen.</p></li><li><p>Eine umfangreiche Produktpalette mit saisonalen Highlights, die keine Wünsche offen lässt.</p></li><li><p>Höchste Sicherheitsstandards - ständig kontrolliert von unabhängigen Laboren.</p></li><li><p>Wahrnehmung von gesellschaftlicher Verantwortung: keine Tierversuche und die Verwendung umweltfreundlicher Verpackungen. </p></li></ul><p>Sechs überzeugende Argumente : </p><ul><li><p>Das 4-in-1 Prinzip - Unsere mineralischen Make-ups sind Grundierung, Puder, Concealer und Sonnenschutz in einem. Jede Haut-Verfärbung kann damit kaschiert werden. </p></li><li><p>Höchste dermatologische Verträglichkeit - Durch das strenge Prüf- und Entwicklungsverfahren sind die Produkte für alle Hauttypen geeignet. </p></li><li><p>Deckkraft pur - Reinste Farbpigmente ohne Füller wie Talkum garantieren eine schnelle und einfache Anwendung sowie eine zuverlässige Abdeckung. </p></li><li><p>Akneresistent - Unsere Mineralien bilden nach dem Auftragen einen sofortigen Schutzfilter und stellen die normale Hautatmung sicher. Die Produkte wirken nicht komedogen. </p></li><li><p>Schutz vor Hautalterung - Die hochdosierten Inhaltsstoffe Titanium Dioxid und Zinkoxid bieten sofortigen Sonnenschutz gegen schädliche UVA- und UVB-Strahlen. Die Skin Cancer Foundation empfiehlt deshalb unser PurePressed Base, Dream Tint und Powder-Me SPF als effektiven UV–Schutz </p></li><li><p>Qualität, die Zeichen setzt - Modernste Wirkstoffe sorgen für überragende Ergebnisse. Die verwendeten Vitamine und Antioxidantien werden unter Berücksichtigung von pharmazeutischen Richtlinien hergestellt und biologisch getestet. </p></li></ul>"
+[content-blocks.link-button]
+beschriftung = "Video ansehen"
+icon = "video"
+link = "http://google.dde"
 
 +++
