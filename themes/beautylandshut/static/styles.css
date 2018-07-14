@@ -53,6 +53,12 @@ footer {
   width: 100vw;
   left: 0;
   z-index: 999;
+  background: white;
+  border-top: 1px solid #b2a386;
+}
+footer.home {
+  border: none!important;
+  background: transparent!important;
 }
 footer a {
   color: #413729 !important;
@@ -63,14 +69,6 @@ footer a {
 }
 footer a:last-child {
   border: none;
-}
-footer .footermenu {
-  background: white;
-  border-top: 1px solid #b2a386;
-}
-footer .footermenu.home {
-  border: none!important;
-  background: transparent!important;
 }
 .subheader {
   background: #b2a386;
@@ -141,4 +139,10 @@ footer .footermenu.home {
   padding: 1rem;
   border: 1px solid #413729;
   max-width: 80%;
+}
+.blockImageContent h3 {
+  font-size: 1.1rem;
+}
+.blockImageContentW:nth-child(odd) {
+  background: rgba(178, 163, 134, 0.2);
 }

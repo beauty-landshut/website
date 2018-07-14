@@ -2,6 +2,7 @@
 @brown_middle:rgb(114,95,76);
 @brown_middle_transp:rgba(114,95,76,0.7);
 @brown_light: rgb(178,163,134);
+@brown_light_t20: rgba(178,163,134,0.2);
 @fontcolor:rgb(65,55,41);
 
 body{
@@ -56,6 +57,12 @@ footer{
   width:100vw;
   left:0;
   z-index:999;
+  background:white;
+  border-top:1px solid @brown_light;
+  &.home{
+    border:none!important;
+    background:transparent!important;
+  }
   a{
     color:@brown_dark!important;
     font-size:0.9rem;
@@ -67,12 +74,7 @@ footer{
       }
   }
   .footermenu{
-    background:white;
-    border-top:1px solid @brown_light;
-    &.home{
-      border:none!important;
-      background:transparent!important;
-    }
+    
   }
 }
 .subheader{
@@ -146,5 +148,14 @@ footer{
       border:1px solid @brown_dark;
       max-width:80%;
     }
+  }
+  h3{
+    font-size:1.1rem;
+  }
+  
+}
+.blockImageContentW{
+  &:nth-child(odd){
+    background:@brown_light_t20;
   }
 }
