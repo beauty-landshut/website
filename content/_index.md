@@ -2,8 +2,6 @@
 title: MORE THAN A FEELING
 date: 2018-07-06 18:19:54 +0000
 type: page
-teaser_oben:
-  bild: "/uploads/2018/06/11/lehmann_head.jpg"
 seo_description: ''
 untertitel: einfach schön sein
 terminbedingungen_text: "<p>Sollten Sie Ihren vereinbarten Termin nicht wahrnehmen
