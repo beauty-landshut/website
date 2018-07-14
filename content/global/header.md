@@ -1,7 +1,7 @@
 ---
 title: Header
-date: 2018-07-10 20:19:54 +0200
-logo: "/uploads/2018/06/02/logo_lehmannbau.png"
+date: 2018-07-10 18:19:54 +0000
+logo: "/uploads/Home_kontakt_global/Nail_beauty_logo_vanessa_Zeichenfläche 1.jpg"
 kontaktdaten:
 - text: Kleinthalhof 45, 93352 Rohr
   icon: map signs
