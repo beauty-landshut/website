@@ -1,7 +1,7 @@
 ---
 title: Header
 date: 2018-07-10 18:19:54 +0000
-logo: "/uploads/Home_kontakt_global/Nail_beauty_logo_vanessa_Zeichenfläche 1.jpg"
+logo: "/uploads/Home_kontakt_global/logo.jpg"
 kontaktdaten:
 - text: Kleinthalhof 45, 93352 Rohr
   icon: map signs

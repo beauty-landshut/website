@@ -23,5 +23,5 @@ fields:
   name: bilder
   label: Bilder
 pages:
-- content/sugaring.md
 - content/fuesse.md
+- content/sugaring.md
