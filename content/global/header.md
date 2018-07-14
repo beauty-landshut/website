@@ -9,5 +9,6 @@ kontaktdaten:
   icon: envelope outline
 - text: '08783-9671272'
   icon: phone
+draft: true
 
 ---
