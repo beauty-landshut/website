@@ -1,5 +1,6 @@
 @brown_dark:rgb(65,55,41);
 @brown_middle:rgb(114,95,76);
+@brown_middle_transp:rgba(114,95,76,0.7);
 @brown_light: rgb(178,163,134);
 @fontcolor:rgb(65,55,41);
 
@@ -25,22 +26,69 @@ header{
   position:fixed;
   top:0;
   left:0;
-  padding:1rem 2rem;
+  padding:0 4rem;
   #headermenu{
+    margin-top:1rem;  
     .headermenuitem{
       color:white;
       padding:0 0.5rem;
       border-right:1px solid white;
+      &:last-child{
+        border:none;
+      }
     }
   }
 }
 footer{
   position:fixed;
   bottom:0;
+  padding:0 4rem;
   width:100vw;
   left:0;
+  a{
+    color:@brown_dark!important;
+    font-size:0.9rem;
+    line-height:2rem!important;
+    padding:0 0.5rem;
+      border-right:1px solid @brown_dark;
+      &:last-child{
+        border:none;
+      }
+  }
 }
 #home{
   width:100vw;
   min-height:100vh;
+  display:flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom:20vh;
+  #slogan{
+    h1,h2{
+      text-align:center;
+    }
+    h1{
+      font-size:5rem;
+      font-weight:normal;
+    }
+    h2{
+      font-weight:200;
+    }
+  }
+  #termin{
+    position:fixed;
+    bottom:2rem;
+    background:@brown_middle_transp;
+    color:white;
+    padding:2rem 4rem;
+    display:flex;
+    justify-content: space-between;
+  }
+}
+.blbutton{
+  padding:0.5rem 2rem;
+  color:white;
+  text-align:center;
+  border:1px solid @brown_dark;
+  background:@brown_middle_transp;
 }
