@@ -1,10 +1,10 @@
-{{ $t := .Site.GetPage "page" "global" "header.md" }}
-<header>
-  <a href="/">
-    <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "c_scale,w_200,f_auto" )}}" />
+{{ $t := .Site.GetPage "page" "global" "header.md" }} {{ $currentPage := . }}
+<header style="background:url({{partial "imgUrl" (dict "img" $currentPage.Params.bild_header "params" "c_scale,f_auto,w_2500" )}}) center center; background-size:cover">
+  <a href="/" id="logolink">
+    <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "c_scale,h_200,f_auto" )}}" />
   </a>
   <div id="headermenu">
-    {{ $currentPage := . }} {{ range .Site.Menus.main }}
+    {{ range .Site.Menus.main }}
     <a class="headermenuitem {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
       href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
     {{ end }}

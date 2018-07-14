@@ -27,6 +27,16 @@ header{
   top:0;
   left:0;
   padding:0 4rem;
+  height:200px;
+  z-index:999;
+  img{
+    padding:0;
+    margin:0;
+  }
+  #logolink{
+    padding:0;
+    margin:0;
+  }
   #headermenu{
     margin-top:1rem;  
     .headermenuitem{
@@ -45,6 +55,7 @@ footer{
   padding:0 4rem;
   width:100vw;
   left:0;
+  z-index:999;
   a{
     color:@brown_dark!important;
     font-size:0.9rem;
@@ -54,6 +65,33 @@ footer{
       &:last-child{
         border:none;
       }
+  }
+  .footermenu{
+    background:white;
+    border-top:1px solid @brown_light;
+    &.home{
+      border:none!important;
+      background:transparent!important;
+    }
+  }
+}
+.subheader{
+  background:@brown_light;
+  text-align:center;
+  padding:0.5rem 4rem;
+  h1{
+    color:@brown_dark;
+    margin:0;
+    padding:0;
+    font-weight:400;
+    font-size:2rem;
+  }
+  h2{
+    color:@brown_dark;
+    margin:0;
+    padding:0;
+    font-size:1.2rem;
+    font-weight:200;
   }
 }
 #home{
@@ -70,6 +108,7 @@ footer{
     h1{
       font-size:5rem;
       font-weight:normal;
+      font-weight:200;
     }
     h2{
       font-weight:200;
@@ -83,6 +122,10 @@ footer{
     padding:2rem 4rem;
     display:flex;
     justify-content: space-between;
+    .content{
+      padding-right:4rem;
+      font-size:0.9rem;
+    }
   }
 }
 .blbutton{
@@ -91,4 +134,17 @@ footer{
   text-align:center;
   border:1px solid @brown_dark;
   background:@brown_middle_transp;
+}
+.subpage{
+  padding:200px 0 2rem 0;
+}
+.blockImageContent{
+  padding:2rem 0; 
+  .column:first-child{
+    .imgw{
+      padding:1rem;
+      border:1px solid @brown_dark;
+      max-width:80%;
+    }
+  }
 }

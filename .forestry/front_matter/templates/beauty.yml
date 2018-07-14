@@ -8,7 +8,7 @@ fields:
   label: Header
   template: header-sub
 - type: blocks
-  name: content-blocks
+  name: contentblocks
   label: Content-Blöcke
   template_types:
   - block-bild-text

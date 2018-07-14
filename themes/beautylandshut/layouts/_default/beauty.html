@@ -1,0 +1,5 @@
+{{ define "main" }}
+<div class="subpage">
+  {{ partial "headerSub.html" . }} {{ range .Params.contentblocks }} {{ partial "blockImageContent.html" . }} {{end}}
+</div>
+{{end}}

@@ -24,6 +24,16 @@ header {
   top: 0;
   left: 0;
   padding: 0 4rem;
+  height: 200px;
+  z-index: 999;
+}
+header img {
+  padding: 0;
+  margin: 0;
+}
+header #logolink {
+  padding: 0;
+  margin: 0;
 }
 header #headermenu {
   margin-top: 1rem;
@@ -42,6 +52,7 @@ footer {
   padding: 0 4rem;
   width: 100vw;
   left: 0;
+  z-index: 999;
 }
 footer a {
   color: #413729 !important;
@@ -52,6 +63,33 @@ footer a {
 }
 footer a:last-child {
   border: none;
+}
+footer .footermenu {
+  background: white;
+  border-top: 1px solid #b2a386;
+}
+footer .footermenu.home {
+  border: none!important;
+  background: transparent!important;
+}
+.subheader {
+  background: #b2a386;
+  text-align: center;
+  padding: 0.5rem 4rem;
+}
+.subheader h1 {
+  color: #413729;
+  margin: 0;
+  padding: 0;
+  font-weight: 400;
+  font-size: 2rem;
+}
+.subheader h2 {
+  color: #413729;
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+  font-weight: 200;
 }
 #home {
   width: 100vw;
@@ -68,6 +106,7 @@ footer a:last-child {
 #home #slogan h1 {
   font-size: 5rem;
   font-weight: normal;
+  font-weight: 200;
 }
 #home #slogan h2 {
   font-weight: 200;
@@ -81,10 +120,25 @@ footer a:last-child {
   display: flex;
   justify-content: space-between;
 }
+#home #termin .content {
+  padding-right: 4rem;
+  font-size: 0.9rem;
+}
 .blbutton {
   padding: 0.5rem 2rem;
   color: white;
   text-align: center;
   border: 1px solid #413729;
   background: rgba(114, 95, 76, 0.7);
+}
+.subpage {
+  padding: 200px 0 2rem 0;
+}
+.blockImageContent {
+  padding: 2rem 0;
+}
+.blockImageContent .column:first-child .imgw {
+  padding: 1rem;
+  border: 1px solid #413729;
+  max-width: 80%;
 }
