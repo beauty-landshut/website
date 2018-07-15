@@ -13,7 +13,7 @@ fields:
   template_types:
   - block-bild-text
 - type: textarea
-  name: footer-text
+  name: footertext
   label: Footer-Text
   config:
     wysiwyg: true
