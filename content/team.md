@@ -6,6 +6,7 @@ slogan = "<p>Wir sind die Experten - Unsere Zertifikate</p>"
 team = []
 titel_header = "Team"
 title = "Team"
+layout = "team"
 untertitel_header = "bei uns sind Sie in den besten Händen"
 zertifikate = ["/uploads/Team/Zertifikate/3300.jpg", "/uploads/Team/Zertifikate/3700.jpg", "/uploads/Team/Zertifikate/1800.jpg", "/uploads/Team/Zertifikate/2500.jpg", "/uploads/Team/Zertifikate/700.jpg", "/uploads/Team/Zertifikate/100.jpg", "/uploads/Team/Zertifikate/400.jpg", "/uploads/Team/Zertifikate/2200.jpg", "/uploads/Team/Zertifikate/200.jpg", "/uploads/Team/Zertifikate/2000.jpg", "/uploads/Team/Zertifikate/1000.jpg", "/uploads/Team/Zertifikate/2100.jpg", "/uploads/Team/Zertifikate/3400.jpg", "/uploads/Team/Zertifikate/500.jpg", "/uploads/Team/Zertifikate/900.jpg", "/uploads/Team/Zertifikate/1200.jpg", "/uploads/Team/Zertifikate/3200.jpg", "/uploads/Team/Zertifikate/3100.jpg", "/uploads/Team/Zertifikate/2600.jpg", "/uploads/Team/Zertifikate/3500.jpg", "/uploads/Team/Zertifikate/800.jpg", "/uploads/Team/Zertifikate/2900.jpg", "/uploads/Team/Zertifikate/300.jpg", "/uploads/Team/Zertifikate/2700.jpg", "/uploads/Team/Zertifikate/3600.jpg", "/uploads/Team/Zertifikate/1700.jpg", "/uploads/Team/Zertifikate/2300.jpg", "/uploads/Team/Zertifikate/1100.jpg", "/uploads/Team/Zertifikate/2800.jpg", "/uploads/Team/Zertifikate/2400.jpg", "/uploads/Team/Zertifikate/1600.jpg", "/uploads/Team/Zertifikate/1900.jpg", "/uploads/Team/Zertifikate/1300.jpg", "/uploads/Team/Zertifikate/1500.jpg", "/uploads/Team/Zertifikate/3000.jpg", "/uploads/Team/Zertifikate/600.jpg"]
 [[mitarbeiter]]

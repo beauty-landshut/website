@@ -1,33 +1,3 @@
-<script type="text/javascript">
-  $(function () {
-    $('.imggal img').click(function (el) {
-      console.log(el.currentTarget.dataset.modal);
-      var mid = el.currentTarget.dataset.modal;
-      $('#modal_' + mid).modal({ inverted: true }).modal('show');
-      $('#gal_' + mid).slippry({
-        // general elements & wrapper
-        slippryWrapper: '<div class="sy-box portfolio-slider" />', // wrapper to wrap everything, including pager
-
-        // options
-        adaptiveHeight: false, // height of the sliders adapts to current slide
-        start: 'random', // num (starting from 1), random
-        loop: true, // first -> last & last -> first arrows
-        captionsSrc: 'li',
-        captions: 'custom', // Position: overlay, below, custom, false
-        captionsEl: '.external-captions',
-
-        // transitions
-        transition: 'fade', // fade, horizontal, kenburns, false
-        easing: 'linear', // easing to use in the animation [(see... [jquery www])]
-        continuous: false,
-
-        // slideshow
-        auto: true,
-        pager: false,
-      });
-    });
-  });
-</script>
 <div class="ui container grid imggal stackable">
   <div class="eight wide column">
     {{ range $x,$img := . }} {{if eq $x 0}}
