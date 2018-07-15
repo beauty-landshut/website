@@ -5,6 +5,8 @@ seo_description = ""
 titel_header = "Füße"
 title = "Füße"
 untertitel_header = "kosmetische Fußpflege"
+[menu.main]
+weight = 9
 [[contentblocks]]
 bild = "/uploads/Fuesse/pediküre.jpeg"
 template = "block-bild-text"
