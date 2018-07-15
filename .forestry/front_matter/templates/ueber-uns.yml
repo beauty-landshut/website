@@ -34,5 +34,8 @@ fields:
 - type: image_gallery
   name: logos
   label: Logos
+- type: text
+  name: seo_description
+  label: SEO Description
 pages:
 - content/ueber-uns.md
