@@ -169,11 +169,14 @@ footer a:last-child {
   font-size: 2rem;
   color: #413729;
 }
+.imggal img {
+  cursor: pointer;
+}
 .imggal .bimg {
   max-width: 100%;
 }
 .imggal .simg {
-  width: 33%;
+  width: 32%;
 }
 .imggal .imggalcol {
   display: flex;
