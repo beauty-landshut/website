@@ -3,11 +3,14 @@
   {{ partial "headerSub.html" . }}
   <div class="ui container grid stackable">
     <div class="six wide column">
-      <img src="{{partial "imgUrl" (dict "img" .Params.bild_links "params" "c_fill,h_1200,w_1200,g_auto,f_auto/c_scale,h_200" )}}"
+      <img class="ui fluid image" src="{{partial "imgUrl" (dict "img" .Params.bild_links "params" "c_fill,h_1200,w_1200,g_auto,f_auto/c_scale,w_600" )}}"
       />
     </div>
     <div class="ten wide column">
       {{.Params.text_rechts | safeHTML}}
+    </div>
+    <div class="sixteen wide column">
+      {{.Params.content | safeHTML}}
     </div>
   </div>
   <div class="galslogan">

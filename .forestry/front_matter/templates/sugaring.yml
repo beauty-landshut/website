@@ -7,11 +7,23 @@ fields:
   name: header
   label: Header
   template: header-sub
-- type: blocks
-  name: content-blocks
-  label: Content-Blöcke
-  template_types:
-  - block-bild-text
+- type: file
+  name: bild_links
+  label: Bild links
+- type: textarea
+  name: text_rechts
+  label: Text rechts
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: textarea
   name: slogan
   label: Slogan
@@ -22,6 +34,9 @@ fields:
 - type: image_gallery
   name: bilder
   label: Bilder
+- type: text
+  name: seo_description
+  label: SEO Description
 pages:
 - content/fuesse.md
 - content/sugaring.md
