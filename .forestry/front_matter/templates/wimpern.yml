@@ -34,6 +34,9 @@ fields:
 - type: image_gallery
   name: bilder
   label: Bilder
+- type: text
+  name: seo_description
+  label: SEO Description
 pages:
 - content/wimpernlifting.md
 - content/wimpernverlaengerung.md
