@@ -146,3 +146,36 @@ footer a:last-child {
 .blockImageContentW:nth-child(odd) {
   background: rgba(178, 163, 134, 0.2);
 }
+.footertxt {
+  padding: 2rem 4rem;
+  background: #413729;
+  color: white;
+  text-align: center;
+}
+.teaseroben {
+  margin-top: 2rem;
+}
+.galslogan {
+  background: #b2a386;
+  text-align: center;
+  padding: 1rem 4rem;
+  width: 100vw;
+  margin: 2rem 0;
+}
+.galslogan p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 2rem;
+  color: #413729;
+}
+.imggal .bimg {
+  max-width: 100%;
+}
+.imggal .simg {
+  width: 33%;
+}
+.imggal .imggalcol {
+  display: flex;
+  justify-content: space-between;
+}

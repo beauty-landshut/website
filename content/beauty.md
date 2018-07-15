@@ -1,7 +1,7 @@
 +++
 bild_header = "/uploads/Beauty/beauty_head.jpg"
 date = "2018-07-10T22:16:09+02:00"
-footer-text = "<p>Wir erarbeiten für jeden Kunden individuell einen Pflegeplan. Die Wirkstoffe werden bei jeder Gesichtsbehandlung auf das aktuelle Hautbild angepasst. Zudem bieten wir unterschiedliche Behandlungsmöglichkeiten an, fragen Sie uns auch nach unserem Kurzprogramm. </p><p>Gerne beraten wir Sie persönlich und stehen Ihnen bei Fragen jederzeit zur Verfügung.</p>"
+footertext = "<p>Wir erarbeiten für jeden Kunden individuell einen Pflegeplan. Die Wirkstoffe werden bei jeder Gesichtsbehandlung auf das aktuelle Hautbild angepasst. Zudem bieten wir unterschiedliche Behandlungsmöglichkeiten an, fragen Sie uns auch nach unserem Kurzprogramm. </p><p>Gerne beraten wir Sie persönlich und stehen Ihnen bei Fragen jederzeit zur Verfügung.</p>"
 layout = "beauty"
 seo_description = ""
 titel_header = "beauty face & body"
