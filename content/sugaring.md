@@ -8,7 +8,7 @@ titel_header = "Sugaring"
 title = "Sugaring"
 untertitel_header = "Soft Sugaring - Professionelle Haarentfernung mittels Zucker"
 [menu.main]
-weight = 4
+weight = 5
 [[contentblocks]]
 bild = "/uploads/Sugaring/Soft-Sugaring-einfach-zum-verlieben1.jpg"
 template = "block-bild-text"

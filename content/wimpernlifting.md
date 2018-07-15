@@ -10,5 +10,7 @@ text_rechts = "<p><strong>Warum wir unser Power Wimpernlifting lieben:</strong><
 titel_header = "Wimpern"
 title = "Wimpernlifting"
 untertitel_header = "Wimpernlifting"
+[menu.main]
+weight = 8
 
 +++
