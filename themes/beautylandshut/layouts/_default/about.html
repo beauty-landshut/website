@@ -31,7 +31,7 @@
     {{ range $x,$img := .Params.logos }}
     <div class="column">
       <div class="imgw">
-        <img class="bimg ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_scale,w_400,f_auto" )}}" />
+        <img class="ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_scale,w_400,f_auto" )}}" />
       </div>
     </div>
     {{end}}
