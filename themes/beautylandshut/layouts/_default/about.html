@@ -3,39 +3,38 @@
   {{ partial "headerSub.html" . }}
   <div class="teaseroben ui container">
     <div class="doubling stackable ui grid">
-      <div class="six wide column">
+      <div class="six wide column leftimgblock">
         {{ range $x,$img := .Params.bilder_links }} {{if eq $x 0}}
-        <img class="bimg" src="{{partial "imgUrl" (dict "img" $img "params" "c_crop,h_800,w_800,g_auto,f_auto/c_scale,h_400" )}}"
-        /> {{end}}{{end}} {{ range $x,$img := .Params.bilder_links }} {{if gt $x 0}}
-        <img class="simg" src="{{partial "imgUrl" (dict "img" $img "params" "c_crop,h_800,w_800,g_auto,f_auto/c_scale,h_200" )}}"
+        <img class="bimg ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_scale,w_800,f_auto/c_fill,h_300,w_400" )}}"
         /> {{end}}{{end}}
+        <div class="smallimages ui three column stackable grid">
+          {{ range $x,$img := .Params.bilder_links }} {{if gt $x 0}}
+          <div class="column">
+            <img class="simg ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_scale,w_800,f_auto/c_fill,h_150,w_200" )}}"
+            />
+          </div>
+          {{end}}{{end}}
+        </div>
       </div>
-      <div class="ten wide column">rechts</div>
+      <div class="ten wide column rightcontent">
+        {{.Params.content_rechts | safeHTML}}
+      </div>
     </div>
   </div>
   <div class="galslogan">
     {{.Params.slogan | safeHTML}}
   </div>
-  <div class="ui container eight column grid imggal doubling stackable">
-    {{ range $x,$img := .Params.zertifikate }}
+  <div class="ui container">
+    <h4>{{.Params.titel_logos | safeHTML}}</h4>
+  </div>
+  <div class="ui container four column grid doubling stackable logos">
+    {{ range $x,$img := .Params.logos }}
     <div class="column">
-      <img data-modal="imgg" class="bimg ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_fill,h_1200,w_1200,g_auto,f_auto/c_scale,h_200" )}}"
-      />
+      <div class="imgw">
+        <img class="bimg ui image fluid" src="{{partial "imgUrl" (dict "img" $img "params" "c_scale,w_400,f_auto" )}}" />
+      </div>
     </div>
     {{end}}
-  </div>
-</div>
-<div class="ui modal" id="modal_imgg">
-  <div class="content">
-    <ul id="gal_imgg" class="imggalslider sy-slides-crop">
-      {{ range $x,$img := .Params.zertifikate }}
-      <li>
-        <a href="#slide_imgg_{{$x}}">
-          <img src="{{partial "imgUrl" (dict "img" $img "params" "f_auto,c_scale,h_700" )}} " />
-        </a>
-      </li>
-      {{end}}
-    </ul>
   </div>
 </div>
 {{end}}
