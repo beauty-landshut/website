@@ -8,7 +8,7 @@ titel_header = "beauty face & body"
 title = "Beauty"
 untertitel_header = "Wellness für Körper und Gesicht"
 [menu.main]
-weight = 1
+weight = 2
 [[contentblocks]]
 bild = "/uploads/About/Advance-Nutrition-Programme-2017-CMYK-80-Black.png"
 template = "block-bild-text"

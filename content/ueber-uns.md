@@ -12,6 +12,6 @@ titel_logos = "<p>Wir arbeiten nur mit renomierten Firmen</p>"
 title = "Über uns"
 untertitel_header = "Beauty & Nails Team"
 [menu.main]
-weight = 9
+weight = 10
 
 +++

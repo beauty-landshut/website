@@ -8,5 +8,7 @@ seo_description = ""
 titel_header = "Kontakt"
 title = "Kontakt"
 untertitel_header = "kontaktieren sie uns!"
+[menu.main]
+weight = 1
 
 +++
