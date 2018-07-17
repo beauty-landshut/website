@@ -9,7 +9,7 @@ titel_header = "Nägel"
 title = "Nägel"
 untertitel_header = "schöne und gepflegte Nägel für einen starken Auftritt - Nageldesign, Fußpflege, Sugaring"
 [menu.main]
-weight = 2
+weight = 3
 [[teaser_oben]]
 bild = "/uploads/Nägel/Manikuere.jpg"
 text = "<p>Mit den Produkten von Pina Parie und ABC Nailstore werden Ihre Nägel verwöhnt. Schöne gesunde und gepflegte Fingernägel sind die Visitenkarten jeder selbstbewussten Frau und verstärken die Ausdrucksfähigkeit der Hände.</p>"

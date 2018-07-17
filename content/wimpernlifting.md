@@ -12,6 +12,6 @@ titel_header = "Wimpern"
 title = "Wimpernlifting"
 untertitel_header = "Wimpernlifting"
 [menu.main]
-weight = 4
+weight = 5
 
 +++

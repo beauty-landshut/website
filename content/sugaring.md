@@ -11,6 +11,6 @@ titel_header = "Sugaring"
 title = "Sugaring"
 untertitel_header = "Soft Sugaring - Professionelle Haarentfernung mittels Zucker"
 [menu.main]
-weight = 5
+weight = 6
 
 +++
