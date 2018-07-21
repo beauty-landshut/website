@@ -13,7 +13,7 @@ zertifikate = ["/uploads/Team/Zertifikate/3300.jpg", "/uploads/Team/Zertifikate/
 weight = 1
 [[mitarbeiter]]
 beschreibung = "<p>Nageldesignerin / Inhaberin</p><p>Mein Name ist Vanessa Lechner und ich bin die Inhaberin unserer kleinen Wellness Oase, die Ihnen ein Lächeln ins Gesicht zaubert. Seit 10 Jahren beschäftige ich mich mit allem was Frauen und Männer schöner macht. </p><p>Jeden Tag mit Eifer, Leidenschaft und Hingabe.</p>"
-bild = "/uploads/2018/07/21/vanessa.jpg"
+bild = "/uploads/2018/07/21/vanessa_neu.png"
 name = "Vanessa"
 [[mitarbeiter]]
 beschreibung = "<p>Nageldesignerin</p><p>Griasdeich, ich bin die Petra, bin 30 Jahre jung! Voller Eifer habe ich im November 2017 meine Ausbildung zur Nageldesignerin gemacht! </p><p>Des weiteren kümmere ich mich auch um einen strahlenden Augenaufschlag durch Wimpernliftings oder Wimpernverlängerungen! </p><p>Mit großer Freude verschaffe ich jeder Kundin die Erfüllung Ihrer persönlichen Wünsche.</p>"
