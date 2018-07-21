@@ -13,6 +13,6 @@ terminbedingungen_text: "<p>Sollten Sie Ihren vereinbarten Termin nicht wahrnehm
   Rechnung zu stellen. Verspätungen: Bei verspäteter Ankunft kann sich die Behandlungszeit
   evtl. verkürzen, um den planmäßigen Beginn der darauf folgenden Behandlung zu gewährleisten.</p>"
 terminbedingungen_button: "<p>Terminbedingung<br><strong>AKZEPTIEREN</strong></p>"
-hintergrund: "/uploads/2018/07/13/Home_pic.jpg"
+hintergrund: "/uploads/2018/07/21/Nail_beautyHome_pic.jpg"
 
 ---
