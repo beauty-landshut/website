@@ -1,5 +1,7 @@
 +++
+bild_header = "/uploads/2018/07/13/Head_team_about_contact_Preise.jpg"
 date = "2018-05-25T09:46:59+02:00"
+titel_header = "Haftungsausschluß"
 title = "Haftungsausschluss"
 type = "page"
 [menu.footer]
