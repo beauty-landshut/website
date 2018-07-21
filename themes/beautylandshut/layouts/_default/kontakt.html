@@ -1,0 +1,11 @@
+{{ define "main" }}
+<div class="subpage">
+  {{ partial "headerSub.html" . }}
+  <div class="teaseroben ui container">
+    <div class="two column stackable ui grid">
+      <div class="column">{{.Params.content_links | safeHTML}}</div>
+      <div class="column">{{.Params.content_rechts | safeHTML}}</div>
+    </div>
+  </div>
+</div>
+{{end}}
