@@ -1,5 +1,5 @@
 +++
-bild_header = "/uploads/2018/07/13/Head_team_about_contact_Preise.jpg"
+bild_header = "/uploads/2018/07/21/NEU_Head_team_about_contact_Preise.jpg"
 date = "2018-07-10T22:15:32+02:00"
 layout = "team"
 seo_description = "Nail and beauty bei uns sind Sie in den besten Händen - Vanessa, Olga und Petra"
