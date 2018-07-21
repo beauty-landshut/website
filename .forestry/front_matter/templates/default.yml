@@ -3,6 +3,10 @@ label: default
 hide_body: false
 is_partial: false
 fields:
+- type: include
+  template: header
+  label: Header
+  name: header
 - name: title
   label: Title
   type: text
