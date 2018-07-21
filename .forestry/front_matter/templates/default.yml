@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: include
-  template: header
+  template: header-sub
   label: Header
   name: header
 - name: title
