@@ -1,5 +1,7 @@
 +++
+bild_header = "/uploads/2018/07/13/Head_team_about_contact_Preise.jpg"
 date = "2018-05-25T09:47:15+02:00"
+titel_header = "Datenschutz"
 title = "Datenschutz"
 type = "page"
 [menu.footer]
