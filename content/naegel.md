@@ -19,7 +19,7 @@ bild = "/uploads/Nägel/Gelmodellage.jpg"
 text = "<p>Tolle Nägel und das für bis zu sechs Wochen? Möglich! Unsere Nageldesignerinnen versteht ihr Handwerk und modellieren mit ABC Nailstore und Pina Parie Ihre perfekten Nägel. Gerne modeliieren wir Ihnen einen kostenlosen Probenagel.</p>"
 titel = "Gel Modellage"
 [[teaser_oben]]
-bild = "/uploads/Nägel/bei fusion.jpeg"
+bild = "/uploads/2018/07/21/NEU_FUSION.jpg"
 text = "<p>Fusion ist ein dünn gearbeiteter Gellack. Er verspricht bei starken Nägeln eine Haltbarkeit für zwei bis fünf Wochen.</p>"
 titel = "Fusion"
 
