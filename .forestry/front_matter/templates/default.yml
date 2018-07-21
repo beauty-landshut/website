@@ -21,4 +21,5 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
+- content/impressum.md
 - content/hairs.md
