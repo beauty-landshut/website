@@ -1,5 +1,5 @@
 +++
-bild_header = "/uploads/Sugaring/Sugaring_head.jpg"
+bild_header = "/uploads/2018/07/21/NEUSugaring_head.jpg"
 bild_links = "/uploads/Sugaring/Soft-Sugaring-einfach-zum-verlieben1.jpg"
 bilder = ["/uploads/Sugaring/94.jpg", "/uploads/Sugaring/92.jpg", "/uploads/Sugaring/IMG_0366.JPG", "/uploads/Sugaring/IMG_0363.JPG", "/uploads/Sugaring/IMG_0362.JPG", "/uploads/Sugaring/97.jpg"]
 content = ""
