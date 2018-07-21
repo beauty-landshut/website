@@ -1,5 +1,5 @@
 +++
-bild_header = "/uploads/Wimpernverlängerung/Wimpern_head.jpg"
+bild_header = "/uploads/2018/07/21/Wimpern_head-Kopie.jpg"
 bild_links = "/uploads/Wimpernverlängerung/146.jpg"
 bilder = ["/uploads/2018/07/21/IMG_0254.jpg", "/uploads/2018/07/21/IMG_0095.JPEG", "/uploads/2018/07/21/157.jpg", "/uploads/2018/07/21/156.jpg", "/uploads/2018/07/21/155.jpg", "/uploads/2018/07/21/154,2.jpg", "/uploads/2018/07/21/154,1.jpg", "/uploads/2018/07/21/153.jpg", "/uploads/Sugaring/97.jpg"]
 content = ""
