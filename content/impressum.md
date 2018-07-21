@@ -12,8 +12,11 @@ weight = 2
 +++
 **Nails & Beauty**
 Inhaberin von Nägel und Fußpflege Studio
+  
 Vanessa Lechner
+  
 Altdorferstrasse 1
+  
 84032 Landshut
 
 Tel: 0 871 / 96 61 09 11
