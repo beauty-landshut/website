@@ -38,5 +38,5 @@ fields:
   name: seo_description
   label: SEO Description
 pages:
-- content/fuesse.md
 - content/sugaring.md
+- content/fuesse.md
