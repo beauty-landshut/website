@@ -1,5 +1,5 @@
 +++
-bild_header = "/uploads/Fuesse/fuesse_head.jpg"
+bild_header = "/uploads/2018/07/21/NEUfuesse_head.jpg"
 bild_links = "/uploads/2018/07/21/fuesse.jpg"
 bilder = []
 content = ""
