@@ -9,6 +9,6 @@ titel_header = "Füße"
 title = "Füße"
 untertitel_header = "kosmetische Fußpflege"
 [menu.main]
-weight = 9
+weight = 7
 
 +++

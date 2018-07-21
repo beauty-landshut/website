@@ -7,7 +7,7 @@ titel_header = "Preise"
 title = "Preise"
 untertitel_header = ""
 [menu.main]
-weight = 8
+weight = 9
 [[kategorien]]
 titel = "Wimpern / Augenbrauen"
 [[kategorien.unterkategorien]]
