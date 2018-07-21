@@ -1,10 +1,10 @@
 +++
 bild_header = "/uploads/2018/07/13/Head_team_about_contact_Preise.jpg"
 date = "2018-07-10T22:18:53+02:00"
+layout = "preise"
 seo_description = ""
 titel_header = "Preise"
 title = "Preise"
-layout = "preise"
 untertitel_header = ""
 [menu.main]
 weight = 8
