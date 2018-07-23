@@ -24,5 +24,8 @@ fields:
 - type: file
   name: karte
   label: Karte
+- type: text
+  name: seo_description
+  label: SEO Description
 pages:
 - content/kontakt.md
