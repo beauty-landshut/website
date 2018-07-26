@@ -16,7 +16,7 @@ text = "<p>Mit den Produkten von Pina Parie und ABC Nailstore werden Ihre Nägel
 titel = "Maniküre"
 [[teaser_oben]]
 bild = "/uploads/Nägel/Gelmodellage.jpg"
-text = "<p>Tolle Nägel und das für bis zu sechs Wochen? Möglich! Unsere Nageldesignerinnen verstehen ihr Handwerk und modellieren mit ABC Nailstore und Pina Parie Ihre perfekten Nägel. Gerne modelieren wir Ihnen einen kostenlosen Probenagel.</p>"
+text = "<p>Tolle Nägel und das für bis zu sechs Wochen? Möglich! Unsere Nageldesignerinnen verstehen ihr Handwerk und modellieren mit ABC Nailstore und Pina Parie Ihre perfekten Nägel. Gerne modellieren wir Ihnen einen kostenlosen Probenagel.</p>"
 titel = "Gel Modellage"
 [[teaser_oben]]
 bild = "/uploads/2018/07/21/NEU_FUSION.jpg"
