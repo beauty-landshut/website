@@ -1,7 +1,7 @@
 +++
 bild_header = "/uploads/2018/07/21/NEUfuesse_head.jpg"
 bild_links = "/uploads/2018/07/21/fuesse.jpg"
-bilder = []
+bilder = ["/uploads/2018/08/01/WaterMark_2018-07-08-22-32-13.jpg", "/uploads/2018/08/01/WaterMark_2018-07-08-22-28-35.jpg", "/uploads/2018/08/01/IMG-20180711-WA0011.jpg", "/uploads/2018/08/01/IMG-20180704-WA0009.jpg", "/uploads/2018/08/01/IMG_20180707_111256.jpg"]
 content = ""
 date = "2018-07-10T22:17:59+02:00"
 layout = "wimpern"
